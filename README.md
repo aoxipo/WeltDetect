@@ -1,1 +1,3 @@
 # WeltDetect
+
+run main.py
